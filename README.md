@@ -9,7 +9,7 @@ A modern, fully responsive single-page web application featuring a dynamic conta
 
 ## ✨ Live Demo
 
-🔗 **[View Live Application](https://your-vercel-url.vercel.app)**
+🔗 **[View Live Application](https://frontend-test-theta-bice.vercel.app/)**
 
 ## 📋 Table of Contents
 
@@ -189,10 +189,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
