@@ -146,17 +146,6 @@ frontend-test/
 └── README.md           # Project documentation
 ```
 
-## 📱 Screenshots
-
-### Desktop View
-![Desktop Screenshot](./screenshots/desktop.png)
-
-### Mobile View
-![Mobile Screenshot](./screenshots/mobile.png)
-
-### Form Validation
-![Validation Screenshot](./screenshots/validation.png)
-
 ## 🎨 Design Highlights
 
 - **Dark Theme** - Modern black background with colorful accents
